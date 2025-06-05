@@ -1,6 +1,3 @@
-### `best_practices_python.md`
-
-```markdown
 # Python Best Practices (Python 3.12 & 3.11)
 
 ## 1. Toolchain & Environment
@@ -339,4 +336,3 @@ Pythonic code is readable, understandable, and adheres to Python's philosophy. P
     *   **Type Hints:** Python's type system is continuously evolving, with newer versions adding more expressive and user-friendly features.
 
 Leveraging these features enables writing more readable, maintainable, and performant Python code. Maximize the use of available features according to your project's Python version requirements.
-```
